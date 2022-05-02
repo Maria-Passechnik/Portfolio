@@ -40,10 +40,22 @@ const GlobalStyle = createGlobalStyle`
         }
     }
     h2{
-        font-size: 4rem;
+        font-size: 3.5rem;
         padding-top: 1rem;
         font-family: 'Quicksand', sans-serif;
         padding-bottom: 2rem;
+    }
+
+    @media(max-width: 1300px){
+        h2{
+            font-size: 2.5rem;
+        }
+        h3{
+            font-size: 2.5rem;
+        }
+        h4{
+            font-size: 2.5rem;
+        }
     }
     h3{
         font-size: 3rem;

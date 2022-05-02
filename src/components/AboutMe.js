@@ -21,7 +21,7 @@ const AboutMe = () => {
                         <motion.h2 variants={titleAnimation}><span>ME, MYSELF & I</span></motion.h2>
                     </Hide>
                     <Hide>
-                        <motion.h3  variants={titleAnimation}>Maria</motion.h3>
+                        <motion.h3  variants={titleAnimation}>Pasechnik Maria</motion.h3>
                     </Hide>
                     <Hide>
                         <motion.h3  variants={titleAnimation}><span>Frontend developer</span></motion.h3>

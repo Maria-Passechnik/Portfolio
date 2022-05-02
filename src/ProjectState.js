@@ -17,7 +17,7 @@ export const ProjectState = () => {
             descTitle: "Music Player",
             description:{
                 Build: 'Built with ReactJS',
-                Styled: 'Styled by Sass & Font Aewsome',
+                Styled: 'Designed with Sass & Font Awesome',
                 ExternalLib: 'External: Chillhop API & UUID',
                 siteUrl: 'https://m-waves.herokuapp.com/'
             }                 
@@ -30,7 +30,7 @@ export const ProjectState = () => {
             descTitle: "Robot Search",
             description:{
                 Build: 'Built with ReactJS',
-                Styled: 'Styled by  CSS & Tachyons',
+                Styled: 'Designed with  CSS & Tachyons',
                 ExternalLib: 'External: RoboHash',
                 siteUrl:'https://m-robofriend.herokuapp.com/'
             }
@@ -43,7 +43,7 @@ export const ProjectState = () => {
             descTitle: "Video Games Informer",
             description:{
                 Build: 'Built with ReactJS & Redux',
-                Styled: 'Styled by Styled Components & Framer Motion',
+                Styled: 'Designed with Styled Components & Framer Motion',
                 ExternalLib: 'External: Rawg.io API',
                 siteUrl:'https://m-illuminate.herokuapp.com/'
             }
